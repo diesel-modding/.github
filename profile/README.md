@@ -1,15 +1,15 @@
-# Welcome to RAID Modding
+# Welcome to Diesel Modding
 
-**RAID Modding** is an unofficial community dedicated to developing and sharing tools for **RAID: World War II**. Our goal is to empower modders with the resources they need to create amazing content for the game.
+**Diesel Modding** is a community dedicated to developing tools and resources for the Diesel Engine, with a primary focus on PAYDAY 2 and RAID: World War II.
 
 ## What We Do
 
-- **Tool Development**: We create and maintain various tools to help modders work more efficiently and effectively.
+- **Tool Development**: We create and maintain tools to help modders work more efficiently and effectively.
 - **Support & Resources**: We provide guides, documentation, and support to help the community get the most out of our tools.
 - **Community Collaboration**: We encourage modders to share feedback and collaborate on tool development.
 
 ## Get Involved
 
-1. **Join Us**: Connect with the RAIDWW2 community on the official [Discord](https://discord.gg/9tAtgtGpx9) to chat, ask questions, and collaborate.
-2. **Explore Our Tools**: Check out our repositories for the latest tools and resources.
-3. **Contribute**: Help us improve existing tools or develop new ones—fork a repo or start a discussion!
+1. **Join Us**: Connect with the community on the ModWorkshop [Discord](https://discord.gg/Eear4JW) to chat, ask questions, and collaborate.
+2. **Explore Our Projects**: Check out our repositories for the latest tools and resources.
+3. **Contribute**: Help us improve existing tools or develop new ones - fork a repository, open an issue, or start a discussion!
