@@ -12,4 +12,4 @@
 
 1. **Join Us**: Connect with the community on the ModWorkshop [Discord](https://discord.gg/Eear4JW) to chat, ask questions, and collaborate.
 2. **Explore Our Projects**: Check out our repositories for the latest tools and resources.
-3. **Contribute**: Help us improve existing tools or develop new ones - fork a repository, open an issue, or start a discussion!
+3. **Contribute**: Help us improve existing tools or develop new ones - fork a repository, open an issue, or start a discussion! **NOTE: Pull Requests containing AI generated code will not be accepted**
